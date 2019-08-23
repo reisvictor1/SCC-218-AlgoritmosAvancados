@@ -5,7 +5,8 @@ using namespace std;
 
 int main(){
 
-    //Par <job, final>
-    pair<char,int> tasks = 
+    //Pair <taskEndingTime, taskName>
+    queue< pair<int,char> > tasks;
+
 
 }
